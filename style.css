@@ -2,7 +2,23 @@ body{
     height: 600px;
 }
 .main-container{
-    background-color:#060726;
+    /*background-color: #060726;*/
     margin: 0% 20%;
     margin-top: 0px;
+    min-height: 700px;
+    border: 30px solid #060726;
+    border-radius: 45px;
+}
+.top-image{
+    overflow: hidden;   
+}
+.saylani-header-text{
+    text-align: center;
+    color: #475E81;
+    font-size: larger;
+}
+.saylani-image{
+    height:81px;
+    width: 150px;
+    margin: 0px 41%;
 }
