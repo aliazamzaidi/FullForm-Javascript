@@ -8,6 +8,7 @@ body{
     min-height: 700px;
     border: 30px solid #060726;
     border-radius: 45px;
+    
 }
 .top-image{
     overflow: hidden;   
@@ -21,4 +22,17 @@ body{
     height:81px;
     width: 150px;
     margin: 0px 41%;
+}
+p{
+    color: #9FB686;
+    font-weight: bold;
+    margin-left: 10%;
+    padding-top: 2em;
+}
+#myname, #fathername, #seatnumber, #htmlmarks, #css1marks, #css2marks, #average{
+    color: #57677F;
+}
+.bottom-img{
+   height: 145px;
+    margin-left: 55%;
 }
